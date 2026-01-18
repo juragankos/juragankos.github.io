@@ -1,0 +1,1 @@
+import{_ as n,c as e,o as t,ag as i}from"./chunks/framework.EuUYIJ38.js";const m=JSON.parse('{"title":"Tentang Saya","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),o={name:"about.md"};function l(r,a,s,g,u,d){return t(),e("div",null,[...a[0]||(a[0]=[i("",6)])])}const p=n(o,[["render",l]]);export{m as __pageData,p as default};
